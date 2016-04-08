@@ -30,9 +30,16 @@ Finally, the one you actually care about, display the cheatsheet:
 Which on my system currently echos back:
 
    Ctrl-b        back a character
+   
    Ctrl-f        forward a character
+   
    Alt-b         back a word
+   
    Alt-f         forward a word
+   
    Ctrl-a        go to start of line
+   
    Ctrl-e        go to end of line
+   
    Ctrl-x        toggle end/start of line
+   

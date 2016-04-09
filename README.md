@@ -6,7 +6,7 @@ Installation:
 
    if [ -f $HOME/Scripts/cheat.sh ]; then
    
-   source $HOME/Scripts/cheat.sh
+      	source $HOME/Scripts/cheat.sh
    
    fi
   

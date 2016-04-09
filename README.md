@@ -21,7 +21,8 @@ Edit a cheatsheet:
 
 Append an item to a cheatsheet:
 
-   ```cheat add bashnav "Ctrl-x\ttoggle end/start of a line"```
+   ```cheat add bashnav "Ctrl-x" "toggle end/start of a line"```
+(Notice that by splitting the item into two parts, cheatsheet automatically adds a tab between the characters.)
 
 Remove or "pop" the last line from the file (useful if you've made a mistake)
 

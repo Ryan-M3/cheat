@@ -9,6 +9,7 @@ Installation:
       	source $HOME/Scripts/cheat.sh
    
    fi
+3. Change the path to where cheatsheet documents will be stored by altering the WHERE variable in the script if necessary.
   
 Create a new cheatsheet:
 

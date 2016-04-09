@@ -5,7 +5,9 @@ Installation:
 2. Copy and paste the following code into your bashrc, editing the path if necessary:
 
    if [ -f $HOME/Scripts/cheat.sh ]; then
+   
    source $HOME/Scripts/cheat.sh
+   
    fi
   
 Create a new cheatsheet:

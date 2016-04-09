@@ -4,9 +4,9 @@ Installation:
 1. Put the cheat script somewhere on your computer. I keep it in a folder at ~/Scripts.
 2. Copy and paste the following code into your bashrc, editing the path if necessary:
 
-   ```if [ -f $HOME/Scripts/cheat.sh ]; then
+   if [ -f $HOME/Scripts/cheat.sh ]; then
    source $HOME/Scripts/cheat.sh
-   fi```
+   fi
   
 Create a new cheatsheet:
 
